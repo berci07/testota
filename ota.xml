@@ -19,7 +19,7 @@
   <Android>8.1.0</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
-  <CheckMD5>EF2B563A0DAE6D1C25BFF542FE05EB3B</CheckMD5>
+  <CheckMD5>EF2B563A0DAE6D1C25BFF542FE05EB3C</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
   <FileSize type="integer">1730204</FileSize>
