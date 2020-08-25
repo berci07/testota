@@ -11,5 +11,45 @@
             http://35.192.200.196/Downloads/6521_1.zip
             </download-link>
         </addon>
+        <addon>
+            <id>2</id> <!-- Use integers only, make them unique -->
+            <name>zLink.apk</name> <!-- The name, simples -->
+            <description>UPDATE FOR ZLINK - Bug fixes for Apple Carplay and Android Auto</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-25</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>287925731</size> <!-- filesize in bytes -->
+            <download-link>
+            http://35.192.200.196/Downloads/zLink.apk
+            </download-link>
+        </addon>
+        <addon>
+            <id>3</id> <!-- Use integers only, make them unique -->
+            <name>T-Rex_Tech_OEM_Style_v0.5.edf</name> <!-- The name, simples -->
+            <description>ECUTEK DASHBOARD - OEM Style: v0.5</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-25</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>1000</size> <!-- filesize in bytes -->
+            <download-link>
+            http://35.192.200.196/Downloads/T-Rex_Tech_OEM_Style_v0.5.edf
+            </download-link>
+        </addon>
+        <addon>
+            <id>3</id> <!-- Use integers only, make them unique -->
+            <name>T-Rex Tech The Blues v1.01 2009-2010.edf</name> <!-- The name, simples -->
+            <description>ECUTEK DASHBOARD - THE BLUES: v1.01 2009-2010</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-25</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>1000</size> <!-- filesize in bytes -->
+            <download-link>
+            http://35.192.200.196/Downloads/T-Rex_Tech_The_Blues_v1.0.edf
+            </download-link>
+        </addon>
+        <addon>
+            <id>4</id> <!-- Use integers only, make them unique -->
+            <name>T-Rex Tech The Blues v1.01 2011.edf</name> <!-- The name, simples -->
+            <description>ECUTEK DASHBOARD- THE BLUES: v1.01 2011+</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-25</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>1000</size> <!-- filesize in bytes -->
+            <download-link>
+            http://35.192.200.196/Downloads/T-Rex_Tech_The_Blues_v1.01_2011.edf
+            </download-link>
+        </addon>
     </addons>
 </hash>
