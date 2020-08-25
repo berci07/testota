@@ -25,7 +25,7 @@
   <FileSize type="integer">1730204</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
-  <Developer>Nissan GT-R | TEST OTA</Developer>
+  <Developer>Nissan GT-R | Test OTA</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
   <WebsiteURL>t-rex.tech</WebsiteURL>
@@ -39,8 +39,8 @@
   * Go to "Execute your changes" and press "Download".
   * Press "Execute" after download is done and your unit will restart, execute your changes.
   * You are good to go.</Changelog>
-  <AddonCount>1</AddonCount>	
-<AddonsURL>	
-https://raw.githubusercontent.com/berci07/testota/master/addons.xml	
+  <AddonCount>2</AddonCount>
+<AddonsURL>
+https://raw.githubusercontent.com/berci07/testota/master/addons.xml
 </AddonsURL>
 </ROM>
