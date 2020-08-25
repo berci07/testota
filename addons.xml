@@ -14,7 +14,7 @@
         <addon>
             <id>2</id> <!-- Use integers only, make them unique -->
             <name>Allapp.pkg</name> <!-- The name, simples -->
-            <description>UPDATE FOR ZLINK - Bug fixes for Apple Carplay and Android Auto connectivity</description> <!-- You can use markdown here if you want -->
+            <description>UPDATE FOR ZLINK - Bug fixes for Apple Carplay and Android Auto</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-25</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>0</size> <!-- filesize in bytes -->
             <download-link>
