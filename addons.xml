@@ -4,11 +4,21 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>6521_1.zip</name> <!-- The name, simples -->
-            <description>Firmware for testing purpose</description> <!-- You can use markdown here if you want -->
+            <description>FIRMWARE -  v1.2 Testing purpose only!</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-08-25</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>0</size> <!-- filesize in bytes -->
             <download-link>
             http://35.192.200.196/Downloads/6521_1.zip
+            </download-link>
+        </addon>
+        <addon>
+            <id>2</id> <!-- Use integers only, make them unique -->
+            <name>Allapp.pkg</name> <!-- The name, simples -->
+            <description>UPDATE FOR ZLINK - Bug fixes for Apple Carplay and Android Auto connectivity</description> <!-- You can use markdown here if you want -->
+            <updated-at>2020-08-25</updated-at> <!-- Must be in yyyy-mm-dd format -->
+            <size>0</size> <!-- filesize in bytes -->
+            <download-link>
+            http://35.192.200.196/Downloads/Allapp.pkg
             </download-link>
         </addon>
     </addons>
